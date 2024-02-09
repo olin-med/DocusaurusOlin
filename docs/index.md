@@ -3,46 +3,68 @@ slug: /
 sidebar_position: "1"
 ---
 
+
+<img src="img/perfil.jpeg" alt="ACESSE A ADALOVE" style={{ display: 'block', marginLeft: '0vh', marginTop: '7vh', marginBottom: '2vh', maxHeight: '40vh', marginRight: 'auto' }} />
+
 # Bio
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Ólin Medeiros Costa
 
-## Getting Started
+Rua MMDC 80, São Paulo, SP, 05510-021
 
-Get started by **creating a new site**.
+(61) 99939-9971
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Engenharia de Computação | Inteli
 
-### What you'll need
+olin.costa@sou.inteli.edu.br
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Aprovações
 
-## Generate a new site
+- Universidade de Brasília
+Bacharelado em Engenharia de Computação
+- USP São Carlos (Cursou 2 anos)
+Bacharelado em Engenharia de Computação
+- University of British Columbia (UBC) (Cursou 1 semestre EAD)
+- Illinois Institute of Technology (Bolsa por mérito anual de 20,000 dólares)
+- Florida International University
+- Inteli (cursando 3 semestre)
+- Brown University (lista de espera)
 
-Generate a new Docusaurus site using the **classic template**.
+## Experiência Profissional
 
-The classic template will automatically be added to your project after you run the command:
+GProgramador de Sistemas de Informação
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Clansoft - Desenvolvimento de Software LTDA
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Maio 2022 - Junho 2023
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Atividades Extracurriculares
 
-## Start your site
+- Haifa Teen Tech - O Haifa Teen Tech é um evento internacional focado em
+tecnologia, resolução de problemas e empreendedorismo, realizado no Haifa
+Technology Center em Israel. Esta competição reúne 70 estudantes finalistas, com
+idades entre 15 e 18 anos, sendo metade de Israel e a outra metade de outros
+países. Os participantes são divididos em equipes para trabalhar em desafios
+durante o evento. Os participantes do Haifa Teen Tech têm a oportunidade de
+trabalhar com mentores de empresas renomadas como IBM e Google, e ganhar
+experiência prática em programação e inteligência artificial.
+Meu grupo se classificou em 3o lugar no hackathon de empreendedorismo
+realizado nos 3 últimos dias de evento. Participação através de processo seletivo
+internacional. A premiação foi entregue por Nobel da Química Hershko Avram.
 
-Run the development server:
+- Participante do programa ISSYP (International Summer School for Young
+Physicists) 2020, Perimeter Institute of Theoretical Physics através de processo
+seletivo internacional no qual apenas 20 estudantes foram selecionados. O
+programa consistiu de 2 semanas de aula avançadas com professores de Física
+Teórica de grande renome.
 
-```bash
-cd my-website
-npm run start
-```
+- Diretor Institucional, Projeto Feynman
+Membro fundador e Professor de Física. Coordenou uma equipe de cerca de 50
+voluntários no Colégio Militar de Brasília no processo de gravação de materiais
+didáticos e aulas de revisão para os demais alunos do colégio.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- Membro da equipe de robótica da USP São Calros, grupo Semear.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Membro fundador e diretor de eventos 2023 da atlética do Inteli (Atlética Tantera).
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Mestres Brasileiros de Física (MBF) - Participante e 27o colocado nacional.

@@ -1,3 +1,0 @@
-# Artefato de Negócios
-
-kfewfjewifjewiofjewoifjwefo
